@@ -1,4 +1,4 @@
-#git clone 
+#git clone https://github.com/Majdawad88/ECET411_midterm-project-Practice.git
 import tkinter as tk
 from tkinter import Label
 import cv2
